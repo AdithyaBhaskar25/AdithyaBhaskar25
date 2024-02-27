@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdithyaBhaskar25
-- 👀 I’m interested in Data Science and AI abd ML
+- 👀 I’m interested in Data Science and AI and ML
 - 🌱 I’m currently learning C,Python,Java,Kotlin,AI,ML,etc... with a beginning footstep into the field of Data Science
 - - 💞️ I’m looking to collaborate on mini startup projects,
   -  profoundly in python and C and a litlle bit of Kotlin
